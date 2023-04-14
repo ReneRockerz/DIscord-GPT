@@ -1,4 +1,4 @@
-# DIscord-GPT
+# Discord-GPT
 
 Require in .ENV
 * Discord Bot Token - https://discord.com/developers/docs/game-sdk/applications
