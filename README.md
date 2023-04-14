@@ -6,6 +6,6 @@ Require in .ENV
 * Open AI Key - https://platform.openai.com/account/api-keys
 
 How to run - [Terminal / CMD / Bash]
-*Run : Node /index.js
+* Run : Node /index.js
 
 
